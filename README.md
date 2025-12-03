@@ -609,24 +609,13 @@ $env:JAVA_HOME="C:\Program Files\Java\jdk-17"
 
 ## 👨‍💻 Auteur
 
-**Saad Karzazi**
+**Saad Karzouz**
 
 - GitHub: [@Saadkarz](https://github.com/Saadkarz)
 - Repository: [tp19](https://github.com/Saadkarz/tp19)
 
 ---
 
-## 📄 Licence
-
-Ce projet est réalisé dans un cadre éducatif.
-
----
-
-## 🙏 Remerciements
-
-Merci au professeur **Lachgar** pour ce TP sur les microservices avec Spring Cloud.
-
----
 
 <div align="center">
 
